@@ -1,0 +1,6 @@
+{
+  "name": "MYS Street Tune Workshop",
+  "description": "Local SEO & AI Scraper optimized Red & White landing page for MYS Street Tune Workshop in Sungai Merab Luar, Kajang with AutoRepair JSON-LD schema & WhatsApp booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
